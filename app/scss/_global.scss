@@ -42,6 +42,7 @@ li{
     }
 }
 .title{
+    @include f700;
     text-align: center;
     color: $bg;
     font-weight: 700;
